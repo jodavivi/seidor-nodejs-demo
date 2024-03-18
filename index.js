@@ -19,7 +19,7 @@ app.use(bodyParser.urlencoded({limit: '50mb'}));
 
 //Inicia Routes
 app.get('/', (req, res) => {
-    res.send('Prueba Web')
+    res.send('Prueba Web 2')
   })
   
  
